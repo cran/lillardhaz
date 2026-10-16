@@ -1,0 +1,10 @@
+a46d10619f06fa4b0de3f0974b293cad *DESCRIPTION
+8b816d170c7ddaffc24f424c06ed0b9f *LICENSE
+8dede3fc6969ffefb59fb9da2f9b8524 *NAMESPACE
+51cf4bb849470caf3e03c61b91ca7970 *NEWS.md
+b1e8c27f25cdfd9af9d76e39c8345cf4 *R/lillardhaz-package.R
+b33dc8f143ebea60433a1b390f240e4c *R/lillardhaz.R
+db388b012474b598c82f59ca6f598c64 *man/fit_lillardhaz.Rd
+e7adfc88249eb214f36fa3460676438b *man/lillardhaz-package.Rd
+6f1c1117583fd0e62e07702ba70efaa1 *man/predict.lillardhaz.Rd
+78ff930b14506d4d82b9f616148a2c37 *tests/testthat/test-fit.R
